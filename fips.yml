@@ -1,0 +1,16 @@
+# fips-oui
+---
+
+imports:
+    fips-nanovg:
+        git: https://github.com/fungos/fips-nanovg.git
+
+run:
+    blendish:
+        cwd: oui-blendish
+
+exports:
+    header-dirs:
+        - oui-blendish
+    modules:
+        oui: .
