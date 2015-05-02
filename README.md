@@ -1,7 +1,7 @@
 fips-oui
 =========
 
-fipsified oui-blendish (https://bitbucket.org/duangle/oui-blendish/s)
+fipsified oui-blendish (https://bitbucket.org/duangle/oui-blendish/)
 
 fips build system: https://github.com/floooh/fips
 
